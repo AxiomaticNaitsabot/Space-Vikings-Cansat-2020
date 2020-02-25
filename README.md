@@ -1,5 +1,11 @@
 # Space-Vikings-Cansat-2020
 
+Face deick:
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html
+
+Ccv2 y tut:
+https://opencv-python-tutroals.readthedocs.io/en/latest/index.html
+
 
   links fra docs:
 https://docs.google.com/spreadsheets/d/1seE5Y1uqtV-xQaPzy23kQL6907cG1mlwEDSEUSWV0hQ/edit#gid=0
